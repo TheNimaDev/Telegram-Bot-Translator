@@ -33,7 +33,7 @@ npm start
 ---
 
 ## 🧾 License
-Feel free to use, modify, and share with credit to **[@imNima10](https://github.com/imNima10)** 💜
+Feel free to use, modify, and share with credit to **[@TheNimaDev](https://github.com/TheNimaDev)** 💜
 
 ---
 ## 💜 
@@ -47,5 +47,5 @@ If you find a bug or want to improve something, open an issue or PR.
 
 ---
 
-**Author:** [@imNima10](https://github.com/imNima10)  
+**Author:** [@TheNimaDev](https://github.com/TheNimaDev)  
 Built with 💻 + ☕ + ❤️
